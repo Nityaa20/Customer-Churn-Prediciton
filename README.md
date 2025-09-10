@@ -2,7 +2,7 @@ Customer Churn Prediction using Machine Learning
 
 This project builds a machine learning model to predict customer churn for a banking dataset. Churn prediction helps businesses identify customers who are likely to leave, so they can take proactive steps to retain them.
 
-🔑 Key Features
+🔑 Key Features :
 
 1.Data Preprocessing
 Removed irrelevant columns (RowNumber, CustomerId, Surname).
@@ -25,10 +25,10 @@ ROC Curve & AUC Score
 Logistic Regression provided a baseline.
 Random Forest improved prediction accuracy with better handling of nonlinear patterns.
 
-📊 Results
+📊 Results :
 The Random Forest model achieved higher ROC-AUC scores, making it more reliable for churn prediction.
 The project provides visual insights into customer churn, highlighting important retention opportunities.
 
-🚀 Applications
+🚀 Applications :
 Banks and financial institutions can integrate this into their CRM systems.
 Helps in customer retention strategies, personalized offers, and churn risk alerts.
